@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99dd4447-3ba1-4c93-928f-885864a7d48d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XNXS1E5xSWEkD5S6dOwHf5MZ8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonwork\PersonInfo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonwork\PersonInfo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.start">
+    <configuration name="GenerateID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PersonInfo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GenerateID.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GenerateName" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PersonInfo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GenerateName.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GeneratePhone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PersonInfo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeneratePhone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PersonInfo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ww" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PersonInfo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ww.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.ww" />
+        <item itemvalue="Python.GenerateID" />
+        <item itemvalue="Python.GenerateName" />
+        <item itemvalue="Python.GeneratePhone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99dd4447-3ba1-4c93-928f-885864a7d48d" name="Default Changelist" comment="" />
+      <created>1580887521699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580887521699</updated>
+      <workItem from="1580887542929" duration="44301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580890040378">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="220" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580890040378" />
+    <state x="468" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580954578284">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="468" y="237" key="#com.intellij.fileTypes.FileTypeChooser/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580954578284" />
+    <state x="473" y="244" key="#xdebugger.evaluate" timestamp="1580894345988">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="473" y="244" key="#xdebugger.evaluate/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580894345988" />
+    <state x="546" y="159" key="FileChooserDialogImpl" timestamp="1580954589411">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="546" y="159" key="FileChooserDialogImpl/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580954589411" />
+    <state width="1396" height="300" key="GridCell.Tab.0.bottom" timestamp="1580992919544">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.0.bottom/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919544" />
+    <state width="1396" height="300" key="GridCell.Tab.0.center" timestamp="1580992919544">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.0.center/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919544" />
+    <state width="1396" height="300" key="GridCell.Tab.0.left" timestamp="1580992919544">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.0.left/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919544" />
+    <state width="1396" height="300" key="GridCell.Tab.0.right" timestamp="1580992919544">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.0.right/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919544" />
+    <state width="1396" height="300" key="GridCell.Tab.1.bottom" timestamp="1580992919252">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.1.bottom/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919252" />
+    <state width="1396" height="300" key="GridCell.Tab.1.center" timestamp="1580992919251">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.1.center/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919251" />
+    <state width="1396" height="300" key="GridCell.Tab.1.left" timestamp="1580992919251">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.1.left/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919251" />
+    <state width="1396" height="300" key="GridCell.Tab.1.right" timestamp="1580992919251">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="300" key="GridCell.Tab.1.right/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992919251" />
+    <state x="269" y="33" key="SettingsEditor" timestamp="1580992970239">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="269" y="33" key="SettingsEditor/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1580992970239" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PersonInfo$GenerateName.coverage" NAME="GenerateName Coverage Results" MODIFIED="1580896372777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonInfo$GeneratePhone.coverage" NAME="GeneratePhone Coverage Results" MODIFIED="1580887751474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonInfo$ww.coverage" NAME="ww Coverage Results" MODIFIED="1580966744459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonInfo$GenerateID.coverage" NAME="GenerateID Coverage Results" MODIFIED="1580896717076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonInfo$start.coverage" NAME="start Coverage Results" MODIFIED="1580992919034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
